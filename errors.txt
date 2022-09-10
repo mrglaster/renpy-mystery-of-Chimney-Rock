@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 545: expected end of line
+    play bg_fx "sound/broke_cat.wav" loop=False
+                                         ^
+
+Ren'Py Version: Ren'Py 8.0.3.22090602
+Fri Sep  9 14:48:15 2022
