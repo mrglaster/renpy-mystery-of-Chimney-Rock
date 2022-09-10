@@ -30,7 +30,7 @@ Visual novel, based on the book "The Mystery of Chimney Rock" by Edward Packard.
 
 ## Developed by Team №6:
 
-Vladislav Novikov,`
+Vladislav Novikov,
 Alyona Gorelik,
 Egor Pristavka,
 Julia Shabanova
