@@ -29,6 +29,11 @@ Visual novel, based on the book "The Mystery of Chimney Rock" by Edward Packard.
 ![alt text](https://github.com/mrglaster/renpy-abandoned-castle/blob/main/screenshots/scr_4.png?raw=true)
 
 
+### All possible paths
+
+![alt text](https://github.com/mrglaster/renpy-abandoned-castle/blob/main/screenshots/allpaths.jpg?raw=true)
+
+
 ## Developed by Team №6:
 
 Vladislav Novikov,
