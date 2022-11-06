@@ -36,10 +36,10 @@ Visual novel, based on the book "The Mystery of Chimney Rock" by Edward Packard.
 
 ## Developed by Team №6:
 
-Vladislav Novikov,
-Alyona Gorelik,
-Egor Pristavka,
-Julia Shabanova
+1) [Alyona Gorelik]( https://github.com/Alyona1619 ) 
+2) [Vladislav Novikov](https://github.com/vladnov138) 
+3) [Egor Pristavka](https://github.com/mrglaster)
+4) [Julia Shabanova](https://github.com/Yulya-S)
 
 ## Links
 
