@@ -8,7 +8,7 @@ Visual novel, based on the book "The Mystery of Chimney Rock" by Edward Packard.
 2) Since neural networks do not always give completely realistic results, it was decided to stylize the game as a project completely written by neural networks.
 3) 19 Endings: 18 official, one as an easter egg
 4) For development we used RenPy. 
-5) Undertale-style character voices
+5) Undertale-style character dialogues
 6) Every character uses own font during speaking
 7) Language: Russian
 
